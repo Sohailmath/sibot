@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/sibots/static/css/main.f8c2e49e.css",
-    "main.js": "/sibots/static/js/main.d8fcdfd6.js",
-    "static/js/787.7da95b79.chunk.js": "/sibots/static/js/787.7da95b79.chunk.js",
-    "index.html": "/sibots/index.html",
-    "main.f8c2e49e.css.map": "/sibots/static/css/main.f8c2e49e.css.map",
-    "main.d8fcdfd6.js.map": "/sibots/static/js/main.d8fcdfd6.js.map",
-    "787.7da95b79.chunk.js.map": "/sibots/static/js/787.7da95b79.chunk.js.map"
+    "main.css": "/sibot/static/css/main.f8c2e49e.css",
+    "main.js": "/sibot/static/js/main.d8fcdfd6.js",
+    "static/js/787.7da95b79.chunk.js": "/sibot/static/js/787.7da95b79.chunk.js",
+    "index.html": "/sibot/index.html",
+    "main.f8c2e49e.css.map": "/sibot/static/css/main.f8c2e49e.css.map",
+    "main.d8fcdfd6.js.map": "/sibot/static/js/main.d8fcdfd6.js.map",
+    "787.7da95b79.chunk.js.map": "/sibot/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8c2e49e.css",
