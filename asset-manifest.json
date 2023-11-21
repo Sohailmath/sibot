@@ -1,18 +1,15 @@
 {
   "files": {
-    "main.css": "/SiBots/static/css/main.62e16095.css",
-    "main.js": "/SiBots/static/js/main.1c4740e8.js",
-    "static/js/787.7da95b79.chunk.js": "/SiBots/static/js/787.7da95b79.chunk.js",
-    "static/media/p2.png": "/SiBots/static/media/p2.7e8543039b92dac49a20.png",
-    "static/media/paintbox1.png": "/SiBots/static/media/paintbox1.fc6ab58ac6f196901698.png",
-    "static/media/Resume.pdf": "/SiBots/static/media/Resume.647d6086f08980eac22a.pdf",
-    "index.html": "/SiBots/index.html",
-    "main.62e16095.css.map": "/SiBots/static/css/main.62e16095.css.map",
-    "main.1c4740e8.js.map": "/SiBots/static/js/main.1c4740e8.js.map",
-    "787.7da95b79.chunk.js.map": "/SiBots/static/js/787.7da95b79.chunk.js.map"
+    "main.css": "/sibots/static/css/main.f8c2e49e.css",
+    "main.js": "/sibots/static/js/main.d8fcdfd6.js",
+    "static/js/787.7da95b79.chunk.js": "/sibots/static/js/787.7da95b79.chunk.js",
+    "index.html": "/sibots/index.html",
+    "main.f8c2e49e.css.map": "/sibots/static/css/main.f8c2e49e.css.map",
+    "main.d8fcdfd6.js.map": "/sibots/static/js/main.d8fcdfd6.js.map",
+    "787.7da95b79.chunk.js.map": "/sibots/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62e16095.css",
-    "static/js/main.1c4740e8.js"
+    "static/css/main.f8c2e49e.css",
+    "static/js/main.d8fcdfd6.js"
   ]
 }
